@@ -29,5 +29,5 @@ on formalised teaching with the help of resources.
 
 ## Contact
 
-- For any questions or feedback regarding this project, please contact: ritikprofessional111@gmail.com or (https://twitter.com/_R_T_K__)
+- For any questions or feedback regarding this project, please contact: ritikprofessional111@gmail.com or @_R_T_K__ on twitter
 

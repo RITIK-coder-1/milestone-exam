@@ -26,5 +26,5 @@ This project is a bike landing page website, created as a part of my milestone e
 
 ## Contact
 
-- For any questions or feedback regarding this project, please contact: ritikprofessional111@gmail.com or https://twitter.com/_R_T_K__
+- For any questions or feedback regarding this project, please contact: ritikprofessional111@gmail.com or @_R_T_K__ on twitter
 
