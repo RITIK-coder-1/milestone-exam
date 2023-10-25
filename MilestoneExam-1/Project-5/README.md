@@ -26,5 +26,5 @@ This project is an NFT (Non-Fungible Token) website, created as a part of my mil
 
 ## Contact
 
-- For any questions or feedback regarding this project, please contact: ritikprofessional111@gmail.com or @_R_T_K__ on twitter
+- For any questions or feedback regarding this project, please contact: ritikprofessional111@gmail.com or "@_R_T_K__" on twitter
 

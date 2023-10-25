@@ -29,5 +29,5 @@ This project is a hospital landing page website, created as a part of my milesto
 ## Contact
 
 - For any questions or feedback regarding this project, please contact: ritikprofessional111@gmail.com
- or @_R_T_K__ on twitter
+ or "@_R_T_K__" on twitter
 
