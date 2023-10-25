@@ -13,6 +13,8 @@ on formalised teaching with the help of resources.
 
 - **Support:** You'll be getting 24/7 support related to your queries, doubts, etc. We are always there to help.
 
+- **Responsive Design:** This project is responsive, it fits well for a larger screen as well as for a smaller screen.
+
 ## Usage
 
 - This website is for demonstration purposes as part of my milestone exam. You can explore the available features and resources.
@@ -27,5 +29,5 @@ on formalised teaching with the help of resources.
 
 ## Contact
 
-- For any questions or feedback regarding this project, please contact: ritikprofessional111@gmail.com
+- For any questions or feedback regarding this project, please contact: ritikprofessional111@gmail.com or https://twitter.com/_R_T_K__
 
