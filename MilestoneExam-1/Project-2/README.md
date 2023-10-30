@@ -1,5 +1,16 @@
 # Hospital Landing Page Website
 
+## Table of Contents
+- [Hospital Landing Page Website](#hospital-landing-page-website)
+  - [Overview](#overview)
+  - [Features](#features)
+  - [Usage](#usage)
+  - [SKILLS/TOOLS Involved](#skillstools-involved)
+  - [Installation](#installation)
+  - [Credits](#credits)
+  - [Contact](#contact)
+
+
 ## Overview
 
 This project is a hospital landing page website, created as a part of my milestone exam for PWSkills. Please note that this is not a real hospital website but a student project.
