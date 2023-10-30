@@ -1,5 +1,15 @@
 # E-Guru Website
 
+## Table of Contents
+- [E-Guru Website](#e-guru-website)
+  - [Overview](#overview)
+  - [Features](#features)
+  - [Usage](#usage)
+  - [SKILLS/TOOLS Involved](#skillstools-involved)
+  - [Installation](#installation)
+  - [Credits](#credits)
+  - [Contact](#contact)
+
 ## Overview
 
 This project is a part of my milestone exam for PWSkills. It's a basic web platform designed to provide educational resources and support for students and teachers. Please note that this is not a professional website but a student project.
