@@ -15,6 +15,8 @@
 
 This project is a hospital landing page website, created as a part of my milestone exam for PWSkills. Please note that this is not a real hospital website but a student project.
 
+Visit the site: https://hospital.ritik.surge.sh
+
 ## Features
 
 - **Information:** The website provides essential information about the hospital, its services, various prices and contact details, along with a submitting form. It covers the various features offered by the website on behalf of the hospital.
